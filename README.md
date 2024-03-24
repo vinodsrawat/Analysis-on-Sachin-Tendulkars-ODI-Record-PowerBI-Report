@@ -39,7 +39,7 @@
 
 ### Analysis
 
-- Sachin played 463 matches in which he scored 18,426 Runs with the average of 44.83 and took 154 wickets where India won 51% matches and lost 43% and 6% were draw or no result.
+- Sachin played 463 matches in which he scored 18,426 Runs with the average of 44.83 and took 154 wickets where India won 51% of the matches he played, lost 43% and 6% were draw or no result.
 - He scored 96 half centuries, 48 centuries and a double century in his ODI career.
 - 61% of the match in which he score half centuries were won by India.
 - 67% of the match in which he score centuries were won by India.
@@ -49,5 +49,3 @@
  # Report Snapshot
 
 ![Dashboard](https://github.com/vinodsrawat/Analysis-on-Sachin-Tendulkars-ODI-Record-PowerBI-Report/assets/161686865/f0161322-b9ec-4aab-9237-36b17911dc8c)
-
-
