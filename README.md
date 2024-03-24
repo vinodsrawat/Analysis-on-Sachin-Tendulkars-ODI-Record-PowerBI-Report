@@ -20,12 +20,11 @@
 
 - Step 6 : In the report view, text box was added where title "Sachin Tendulkar's ODI Record" was mentioned.
 - Step 7 : Cards were added from the visualizations pane in report view to represent total matches, total runs, average, total wickets, total catches, highest score. 
-
 - Step 8 : Visual filters (Slicers) were added for three fields named "Year", "Opposition" & "Ground".
 - Step 9 : Three donut charts were added to the canvas, representing Centuries,Runs by innings, results.
 - Step 10 : A line chart was also added to the report design area representing the runs scored per year.
-- Step 11 : Table was used to represent Top 10 performances.
-- Step 12 : A bar chart was added to represent runs scored against different countries.
+- Step 11 : Table was used to represent Top 10 performances of Sachin where India won the match.
+- Step 12 : A bar chart with conditional formatting was added to represent runs scored against different countries.
 - Step 13 : A BCCI logo was added using image option in insert tab.
 
 ### Calculations and DAX used
